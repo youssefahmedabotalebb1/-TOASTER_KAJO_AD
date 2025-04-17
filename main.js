@@ -1,7 +1,7 @@
 // تكوين Firebase
 const firebaseConfig = {
-  databaseURL: "https://omarocoo-5c4a1-default-rtdb.firebaseio.com/",
-  storageBucket: "omarocoo-5c4a1.appspot.com"
+  databaseURL: "https://whatsbesnes-default-rtdb.firebaseio.com/",
+  storageBucket: "whatsbesnes.appspot.com"
 };
 
 firebase.initializeApp(firebaseConfig);
@@ -19,7 +19,8 @@ const categories = {
   "lp": "dolab",
   "moca": "rham",
   "soda": "zgag",
-  "hlwa": "kalb"
+  "hlwa": "kalb",
+  "wath": "wath",
 };
 
 // متغيرات عامة
